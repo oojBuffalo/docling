@@ -908,7 +908,7 @@ requires-dist = [
     { name = "beautifulsoup4", specifier = ">=4.12.3,<5.0.0" },
     { name = "certifi", specifier = ">=2024.7.4" },
     { name = "docling-core", extras = ["chunking"], specifier = ">=2.29.0,<3.0.0" },
-    { name = "docling-ibm-models", specifier = ">=3.4.4,<4.0.0" },
+    { name = "docling-ibm-models", git = "https://github.com/docling-project/docling-ibm-models.git?rev=dev%2Fadd-listitem-marker-identifier" },
     { name = "docling-parse", specifier = ">=4.0.0,<5.0.0" },
     { name = "easyocr", specifier = ">=1.7,<2.0" },
     { name = "filetype", specifier = ">=1.2.0,<2.0.0" },
@@ -1009,7 +1009,7 @@ chunking = [
 [[package]]
 name = "docling-ibm-models"
 version = "3.4.4"
-source = { registry = "https://pypi.org/simple" }
+source = { git = "https://github.com/docling-project/docling-ibm-models.git?rev=dev%2Fadd-listitem-marker-identifier#6efd16fdf1c5078db1da9676bb2591b4c76f0506" }
 dependencies = [
     { name = "docling-core" },
     { name = "huggingface-hub" },
@@ -1024,10 +1024,6 @@ dependencies = [
     { name = "torchvision" },
     { name = "tqdm" },
     { name = "transformers" },
-]
-sdist = { url = "https://files.pythonhosted.org/packages/ac/df/b2dc9d35b23e2175fdd08d8b7e25eff63906eea838101f060e6dedba67a5/docling_ibm_models-3.4.4.tar.gz", hash = "sha256:70060f42b2aeb6d17ade4eb557de0e78d084abd33140f8b99f0429a491d64b59", size = 80979, upload-time = "2025-06-03T08:04:04.604Z" }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/af/de/5df060d0cf7ce04fdee79e0a10bde3fc7056ce9c9b26a48f7c1aff66140d/docling_ibm_models-3.4.4-py3-none-any.whl", hash = "sha256:7f3ac8a19c476396e0bc0297e46dcff2ff3273cccc32e8288d503ad20b3b1469", size = 80756, upload-time = "2025-06-03T08:04:02.732Z" },
 ]
 
 [[package]]
