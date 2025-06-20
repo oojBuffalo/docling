@@ -30,9 +30,6 @@
         "$ref": "#/groups/0"
       },
       {
-        "$ref": "#/groups/19"
-      },
-      {
         "$ref": "#/texts/6"
       },
       {
@@ -492,20 +489,6 @@
       "content_layer": "body",
       "name": "textbox",
       "label": "section"
-    },
-    {
-      "self_ref": "#/groups/19",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [
-        {
-          "$ref": "#/texts/67"
-        }
-      ],
-      "content_layer": "body",
-      "name": "group",
-      "label": "list"
     }
   ],
   "texts": [
@@ -1494,20 +1477,6 @@
       "prov": [],
       "orig": "",
       "text": ""
-    },
-    {
-      "self_ref": "#/texts/67",
-      "parent": {
-        "$ref": "#/groups/19"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "list_item",
-      "prov": [],
-      "orig": "",
-      "text": "",
-      "enumerated": false,
-      "marker": "-"
     }
   ],
   "pictures": [],

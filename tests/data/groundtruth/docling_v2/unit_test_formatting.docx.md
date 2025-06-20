@@ -13,5 +13,5 @@ Normal *italic* **bold** underline and [hyperlink](https:/github.com/DS4SD/docli
 - *Italic bullet 1*
 - **Bold bullet 2**
 - Underline bullet 3
-    - Some     - *italic*     - **bold**     - underline
-        - Nested         - *italic*         - **bold**
+- Some *italic* **bold** underline
+    - Nested *italic* **bold**
