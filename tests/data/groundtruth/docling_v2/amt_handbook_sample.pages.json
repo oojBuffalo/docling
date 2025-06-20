@@ -125924,16 +125924,16 @@
           "rect": {
             "r_x0": 174.212,
             "r_y0": 218.99900000000002,
-            "r_x1": 311.548,
+            "r_x1": 176.712,
             "r_y1": 218.99900000000002,
-            "r_x2": 311.548,
+            "r_x2": 176.712,
             "r_y2": 210.534,
             "r_x3": 174.212,
             "r_y3": 210.534,
             "coord_origin": "TOPLEFT"
           },
-          "text": "  nut  is  of  one  piece,  all-metal ",
-          "orig": "  nut  is  of  one  piece,  all-metal ",
+          "text": " ",
+          "orig": " ",
           "text_direction": "left_to_right",
           "confidence": 1.0,
           "from_ocr": false,
@@ -125944,6 +125944,93 @@
         },
         {
           "index": 11,
+          "rgba": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "rect": {
+            "r_x0": 192.206,
+            "r_y0": 218.99900000000002,
+            "r_x1": 194.706,
+            "r_y1": 218.99900000000002,
+            "r_x2": 194.706,
+            "r_y2": 210.534,
+            "r_x3": 192.206,
+            "r_y3": 210.534,
+            "coord_origin": "TOPLEFT"
+          },
+          "text": " ",
+          "orig": " ",
+          "text_direction": "left_to_right",
+          "confidence": 1.0,
+          "from_ocr": false,
+          "rendering_mode": 3,
+          "widget": false,
+          "font_key": "/TT0",
+          "font_name": "/WACECQ+Times-Roman"
+        },
+        {
+          "index": 12,
+          "rgba": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "rect": {
+            "r_x0": 266.472,
+            "r_y0": 218.99900000000002,
+            "r_x1": 268.972,
+            "r_y1": 218.99900000000002,
+            "r_x2": 268.972,
+            "r_y2": 210.534,
+            "r_x3": 266.472,
+            "r_y3": 210.534,
+            "coord_origin": "TOPLEFT"
+          },
+          "text": " ",
+          "orig": " ",
+          "text_direction": "left_to_right",
+          "confidence": 1.0,
+          "from_ocr": false,
+          "rendering_mode": 3,
+          "widget": false,
+          "font_key": "/TT0",
+          "font_name": "/WACECQ+Times-Roman"
+        },
+        {
+          "index": 13,
+          "rgba": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "rect": {
+            "r_x0": 309.048,
+            "r_y0": 218.99900000000002,
+            "r_x1": 311.548,
+            "r_y1": 218.99900000000002,
+            "r_x2": 311.548,
+            "r_y2": 210.534,
+            "r_x3": 309.048,
+            "r_y3": 210.534,
+            "coord_origin": "TOPLEFT"
+          },
+          "text": " ",
+          "orig": " ",
+          "text_direction": "left_to_right",
+          "confidence": 1.0,
+          "from_ocr": false,
+          "rendering_mode": 3,
+          "widget": false,
+          "font_key": "/TT0",
+          "font_name": "/WACECQ+Times-Roman"
+        },
+        {
+          "index": 14,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -125972,7 +126059,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 12,
+          "index": 15,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126001,7 +126088,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 13,
+          "index": 16,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126030,7 +126117,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 14,
+          "index": 17,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126059,7 +126146,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 15,
+          "index": 18,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126088,7 +126175,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 16,
+          "index": 19,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126117,7 +126204,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 17,
+          "index": 20,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126146,7 +126233,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 18,
+          "index": 21,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126175,7 +126262,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 19,
+          "index": 22,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126204,7 +126291,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 20,
+          "index": 23,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126233,7 +126320,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 21,
+          "index": 24,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126262,7 +126349,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 22,
+          "index": 25,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126291,7 +126378,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 23,
+          "index": 26,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126320,7 +126407,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 24,
+          "index": 27,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126349,7 +126436,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 25,
+          "index": 28,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126378,7 +126465,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 26,
+          "index": 29,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126407,7 +126494,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 27,
+          "index": 30,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126436,7 +126523,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 28,
+          "index": 31,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126465,7 +126552,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 29,
+          "index": 32,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126494,7 +126581,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 30,
+          "index": 33,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126523,7 +126610,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 31,
+          "index": 34,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126552,7 +126639,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 32,
+          "index": 35,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126581,7 +126668,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 33,
+          "index": 36,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126610,7 +126697,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 34,
+          "index": 37,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126639,7 +126726,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 35,
+          "index": 38,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126668,7 +126755,7 @@
           "font_name": "/KIDKQO+Times-Italic"
         },
         {
-          "index": 36,
+          "index": 39,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126697,7 +126784,65 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 37,
+          "index": 40,
+          "rgba": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "rect": {
+            "r_x0": 178.318,
+            "r_y0": 218.99900000000002,
+            "r_x1": 266.095,
+            "r_y1": 218.99900000000002,
+            "r_x2": 266.095,
+            "r_y2": 210.534,
+            "r_x3": 178.318,
+            "r_y3": 210.534,
+            "coord_origin": "TOPLEFT"
+          },
+          "text": "nut is  of  one  piece,",
+          "orig": "nut is  of  one  piece,",
+          "text_direction": "left_to_right",
+          "confidence": 1.0,
+          "from_ocr": false,
+          "rendering_mode": 0,
+          "widget": false,
+          "font_key": "/TT0",
+          "font_name": "/WACECQ+Times-Roman"
+        },
+        {
+          "index": 41,
+          "rgba": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "rect": {
+            "r_x0": 270.575,
+            "r_y0": 218.99900000000002,
+            "r_x1": 309.037,
+            "r_y1": 218.99900000000002,
+            "r_x2": 309.037,
+            "r_y2": 210.534,
+            "r_x3": 270.575,
+            "r_y3": 210.534,
+            "coord_origin": "TOPLEFT"
+          },
+          "text": "all-metal",
+          "orig": "all-metal",
+          "text_direction": "left_to_right",
+          "confidence": 1.0,
+          "from_ocr": false,
+          "rendering_mode": 0,
+          "widget": false,
+          "font_key": "/TT0",
+          "font_name": "/WACECQ+Times-Roman"
+        },
+        {
+          "index": 42,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126726,7 +126871,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 38,
+          "index": 43,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126755,7 +126900,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 39,
+          "index": 44,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126784,7 +126929,7 @@
           "font_name": "/KIDKQO+Times-Italic"
         },
         {
-          "index": 40,
+          "index": 45,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126813,7 +126958,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 41,
+          "index": 46,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126842,7 +126987,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 42,
+          "index": 47,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126871,7 +127016,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 43,
+          "index": 48,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126900,7 +127045,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 44,
+          "index": 49,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126929,7 +127074,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 45,
+          "index": 50,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126958,7 +127103,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 46,
+          "index": 51,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -126987,7 +127132,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 47,
+          "index": 52,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127016,7 +127161,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 48,
+          "index": 53,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127045,7 +127190,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 49,
+          "index": 54,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127074,7 +127219,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 50,
+          "index": 55,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127103,7 +127248,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 51,
+          "index": 56,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127132,7 +127277,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 52,
+          "index": 57,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127161,7 +127306,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 53,
+          "index": 58,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127190,7 +127335,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 54,
+          "index": 59,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127219,7 +127364,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 55,
+          "index": 60,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127248,7 +127393,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 56,
+          "index": 61,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127277,7 +127422,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 57,
+          "index": 62,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127306,7 +127451,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 58,
+          "index": 63,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127335,7 +127480,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 59,
+          "index": 64,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127364,7 +127509,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 60,
+          "index": 65,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127374,16 +127519,16 @@
           "rect": {
             "r_x0": 320.992,
             "r_y0": 54.499000000000024,
-            "r_x1": 560.508,
-            "r_y1": 54.499000000000024,
-            "r_x2": 560.508,
-            "r_y2": 46.03399999999999,
+            "r_x1": 516.813,
+            "r_y1": 50.46799999999996,
+            "r_x2": 516.813,
+            "r_y2": 45.81299999999999,
             "r_x3": 320.992,
             "r_y3": 46.03399999999999,
             "coord_origin": "TOPLEFT"
           },
-          "text": "the most common ranges in size for No. 6 up to  1 4 inch, the ",
-          "orig": "the most common ranges in size for No. 6 up to  1 4 inch, the ",
+          "text": "the most common ranges in size for No. 6 up to  1",
+          "orig": "the most common ranges in size for No. 6 up to  1",
           "text_direction": "left_to_right",
           "confidence": 1.0,
           "from_ocr": false,
@@ -127393,7 +127538,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 61,
+          "index": 66,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127422,7 +127567,7 @@
           "font_name": "/GUCMMW+Times-Roman"
         },
         {
-          "index": 62,
+          "index": 67,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127430,18 +127575,18 @@
             "a": 255
           },
           "rect": {
-            "r_x0": 320.998,
-            "r_y0": 66.99900000000002,
-            "r_x1": 443.867,
-            "r_y1": 66.99900000000002,
-            "r_x2": 443.867,
-            "r_y2": 58.53399999999999,
-            "r_x3": 320.998,
-            "r_y3": 58.53399999999999,
+            "r_x0": 518.258,
+            "r_y0": 53.668000000000006,
+            "r_x1": 521.008,
+            "r_y1": 53.668000000000006,
+            "r_x2": 521.008,
+            "r_y2": 49.013000000000034,
+            "r_x3": 518.258,
+            "r_y3": 49.013000000000034,
             "coord_origin": "TOPLEFT"
           },
-          "text": "Rol-top ranges from  1 4 inch to ",
-          "orig": "Rol-top ranges from  1 4 inch to ",
+          "text": "4",
+          "orig": "4",
           "text_direction": "left_to_right",
           "confidence": 1.0,
           "from_ocr": false,
@@ -127451,7 +127596,65 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 63,
+          "index": 68,
+          "rgba": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "rect": {
+            "r_x0": 521.008,
+            "r_y0": 54.499000000000024,
+            "r_x1": 560.508,
+            "r_y1": 54.499000000000024,
+            "r_x2": 560.508,
+            "r_y2": 46.03399999999999,
+            "r_x3": 521.008,
+            "r_y3": 46.03399999999999,
+            "coord_origin": "TOPLEFT"
+          },
+          "text": " inch, the ",
+          "orig": " inch, the ",
+          "text_direction": "left_to_right",
+          "confidence": 1.0,
+          "from_ocr": false,
+          "rendering_mode": 0,
+          "widget": false,
+          "font_key": "/TT0",
+          "font_name": "/WACECQ+Times-Roman"
+        },
+        {
+          "index": 69,
+          "rgba": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "rect": {
+            "r_x0": 320.998,
+            "r_y0": 66.99900000000002,
+            "r_x1": 407.24,
+            "r_y1": 62.96799999999996,
+            "r_x2": 407.24,
+            "r_y2": 58.31299999999999,
+            "r_x3": 320.998,
+            "r_y3": 58.53399999999999,
+            "coord_origin": "TOPLEFT"
+          },
+          "text": "Rol-top ranges from  1",
+          "orig": "Rol-top ranges from  1",
+          "text_direction": "left_to_right",
+          "confidence": 1.0,
+          "from_ocr": false,
+          "rendering_mode": 0,
+          "widget": false,
+          "font_key": "/TT0",
+          "font_name": "/WACECQ+Times-Roman"
+        },
+        {
+          "index": 70,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127480,7 +127683,65 @@
           "font_name": "/GUCMMW+Times-Roman"
         },
         {
-          "index": 64,
+          "index": 71,
+          "rgba": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "rect": {
+            "r_x0": 408.685,
+            "r_y0": 66.168,
+            "r_x1": 411.435,
+            "r_y1": 66.168,
+            "r_x2": 411.435,
+            "r_y2": 61.513000000000034,
+            "r_x3": 408.685,
+            "r_y3": 61.513000000000034,
+            "coord_origin": "TOPLEFT"
+          },
+          "text": "4",
+          "orig": "4",
+          "text_direction": "left_to_right",
+          "confidence": 1.0,
+          "from_ocr": false,
+          "rendering_mode": 0,
+          "widget": false,
+          "font_key": "/TT0",
+          "font_name": "/WACECQ+Times-Roman"
+        },
+        {
+          "index": 72,
+          "rgba": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "rect": {
+            "r_x0": 411.435,
+            "r_y0": 66.99900000000002,
+            "r_x1": 443.867,
+            "r_y1": 66.99900000000002,
+            "r_x2": 443.867,
+            "r_y2": 58.53399999999999,
+            "r_x3": 411.435,
+            "r_y3": 58.53399999999999,
+            "coord_origin": "TOPLEFT"
+          },
+          "text": " inch to ",
+          "orig": " inch to ",
+          "text_direction": "left_to_right",
+          "confidence": 1.0,
+          "from_ocr": false,
+          "rendering_mode": 0,
+          "widget": false,
+          "font_key": "/TT0",
+          "font_name": "/WACECQ+Times-Roman"
+        },
+        {
+          "index": 73,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127509,7 +127770,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 65,
+          "index": 74,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127538,7 +127799,7 @@
           "font_name": "/GUCMMW+Times-Roman"
         },
         {
-          "index": 66,
+          "index": 75,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127567,7 +127828,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 67,
+          "index": 76,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127596,7 +127857,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 68,
+          "index": 77,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127625,7 +127886,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 69,
+          "index": 78,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127654,7 +127915,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 70,
+          "index": 79,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127683,7 +127944,7 @@
           "font_name": "/GUCMMW+Times-Roman"
         },
         {
-          "index": 71,
+          "index": 80,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127712,7 +127973,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 72,
+          "index": 81,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127741,7 +128002,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 73,
+          "index": 82,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127770,7 +128031,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 74,
+          "index": 83,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127799,7 +128060,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 75,
+          "index": 84,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127828,7 +128089,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 76,
+          "index": 85,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127857,7 +128118,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 77,
+          "index": 86,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127886,7 +128147,7 @@
           "font_name": "/KIDKQO+Times-Italic"
         },
         {
-          "index": 78,
+          "index": 87,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127915,7 +128176,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 79,
+          "index": 88,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127944,7 +128205,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 80,
+          "index": 89,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -127973,7 +128234,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 81,
+          "index": 90,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128002,7 +128263,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 82,
+          "index": 91,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128031,7 +128292,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 83,
+          "index": 92,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128060,7 +128321,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 84,
+          "index": 93,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128089,7 +128350,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 85,
+          "index": 94,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128118,7 +128379,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 86,
+          "index": 95,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128147,7 +128408,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 87,
+          "index": 96,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128176,7 +128437,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 88,
+          "index": 97,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128205,7 +128466,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 89,
+          "index": 98,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128234,7 +128495,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 90,
+          "index": 99,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128263,7 +128524,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 91,
+          "index": 100,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128292,7 +128553,7 @@
           "font_name": "/KIDKQO+Times-Italic"
         },
         {
-          "index": 92,
+          "index": 101,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128321,7 +128582,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 93,
+          "index": 102,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128350,7 +128611,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 94,
+          "index": 103,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128379,7 +128640,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 95,
+          "index": 104,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128408,7 +128669,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 96,
+          "index": 105,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128437,7 +128698,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 97,
+          "index": 106,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128466,7 +128727,7 @@
           "font_name": "/KIDKQO+Times-Italic"
         },
         {
-          "index": 98,
+          "index": 107,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128495,7 +128756,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 99,
+          "index": 108,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128524,7 +128785,7 @@
           "font_name": "/WACECQ+Times-Roman"
         },
         {
-          "index": 100,
+          "index": 109,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128553,7 +128814,7 @@
           "font_name": "/DEDAWC+MyriadPro-Bold"
         },
         {
-          "index": 101,
+          "index": 110,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128582,7 +128843,7 @@
           "font_name": "/DEDAWC+MyriadPro-Bold"
         },
         {
-          "index": 102,
+          "index": 111,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128611,7 +128872,7 @@
           "font_name": "/JRMZCQ+MyriadPro-Regular"
         },
         {
-          "index": 103,
+          "index": 112,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128640,7 +128901,7 @@
           "font_name": "/JRMZCQ+MyriadPro-Regular"
         },
         {
-          "index": 104,
+          "index": 113,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128669,7 +128930,7 @@
           "font_name": "/JRMZCQ+MyriadPro-Regular"
         },
         {
-          "index": 105,
+          "index": 114,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128698,7 +128959,7 @@
           "font_name": "/JRMZCQ+MyriadPro-Regular"
         },
         {
-          "index": 106,
+          "index": 115,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128727,7 +128988,7 @@
           "font_name": "/JRMZCQ+MyriadPro-Regular"
         },
         {
-          "index": 107,
+          "index": 116,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128756,7 +129017,7 @@
           "font_name": "/JRMZCQ+MyriadPro-Regular"
         },
         {
-          "index": 108,
+          "index": 117,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128785,7 +129046,7 @@
           "font_name": "/JRMZCQ+MyriadPro-Regular"
         },
         {
-          "index": 109,
+          "index": 118,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128814,7 +129075,7 @@
           "font_name": "/JRMZCQ+MyriadPro-Regular"
         },
         {
-          "index": 110,
+          "index": 119,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128843,7 +129104,7 @@
           "font_name": "/JRMZCQ+MyriadPro-Regular"
         },
         {
-          "index": 111,
+          "index": 120,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128872,7 +129133,7 @@
           "font_name": "/PFNOIE+Helvetica-Bold"
         },
         {
-          "index": 112,
+          "index": 121,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128901,7 +129162,7 @@
           "font_name": "/KIDKQO+Times-Italic"
         },
         {
-          "index": 113,
+          "index": 122,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128930,7 +129191,7 @@
           "font_name": "/PFNOIE+Helvetica-Bold"
         },
         {
-          "index": 114,
+          "index": 123,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128959,7 +129220,7 @@
           "font_name": "/KIDKQO+Times-Italic"
         },
         {
-          "index": 115,
+          "index": 124,
           "rgba": {
             "r": 0,
             "g": 0,
@@ -128989,7 +129250,7 @@
         }
       ],
       "has_chars": true,
-      "has_words": false,
+      "has_words": true,
       "has_lines": true,
       "image": null,
       "lines": [
@@ -150405,246 +150666,6 @@
       "layout": {
         "clusters": [
           {
-            "id": 6,
-            "label": "text",
-            "bbox": {
-              "l": 71.992,
-              "t": 210.534,
-              "r": 311.548,
-              "b": 281.499,
-              "coord_origin": "TOPLEFT"
-            },
-            "confidence": 0.9866572022438049,
-            "cells": [
-              {
-                "index": 10,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 174.212,
-                  "r_y0": 218.99900000000002,
-                  "r_x1": 311.548,
-                  "r_y1": 218.99900000000002,
-                  "r_x2": 311.548,
-                  "r_y2": 210.534,
-                  "r_x3": 174.212,
-                  "r_y3": 210.534,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "  nut  is  of  one  piece,  all-metal ",
-                "orig": "  nut  is  of  one  piece,  all-metal ",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 36,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 218.99900000000002,
-                  "r_x1": 173.838,
-                  "r_y1": 218.99900000000002,
-                  "r_x2": 173.838,
-                  "r_y2": 210.534,
-                  "r_x3": 71.992,
-                  "r_y3": 210.534,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "The  Boots  self-locking",
-                "orig": "The  Boots  self-locking",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 37,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 231.49900000000002,
-                  "r_x1": 311.51,
-                  "r_y1": 231.49900000000002,
-                  "r_x2": 311.51,
-                  "r_y2": 223.034,
-                  "r_x3": 71.992,
-                  "r_y3": 223.034,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "construction designed to hold tight despite severe vibration. ",
-                "orig": "construction designed to hold tight despite severe vibration. ",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 38,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 243.99900000000002,
-                  "r_x1": 103.502,
-                  "r_y1": 243.99900000000002,
-                  "r_x2": 103.502,
-                  "r_y2": 235.534,
-                  "r_x3": 71.992,
-                  "r_y3": 235.534,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "Note in ",
-                "orig": "Note in ",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 39,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 102.862,
-                  "r_y0": 244.0,
-                  "r_x1": 150.172,
-                  "r_y1": 244.0,
-                  "r_x2": 150.172,
-                  "r_y2": 235.62400000000002,
-                  "r_x3": 102.862,
-                  "r_y3": 235.62400000000002,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "Figure 7-26",
-                "orig": "Figure 7-26",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 40,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 150.162,
-                  "r_y0": 243.99900000000002,
-                  "r_x1": 309.082,
-                  "r_y1": 243.99900000000002,
-                  "r_x2": 309.082,
-                  "r_y2": 235.534,
-                  "r_x3": 150.162,
-                  "r_y3": 235.534,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": " that it has two sections and is essentially",
-                "orig": " that it has two sections and is essentially",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 41,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 256.499,
-                  "r_x1": 311.519,
-                  "r_y1": 256.499,
-                  "r_x2": 311.519,
-                  "r_y2": 248.034,
-                  "r_x3": 71.992,
-                  "r_y3": 248.034,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "two nuts in one: a locking nut and a load-carrying nut. The ",
-                "orig": "two nuts in one: a locking nut and a load-carrying nut. The ",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 42,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 268.999,
-                  "r_x1": 309.042,
-                  "r_y1": 268.999,
-                  "r_x2": 309.042,
-                  "r_y2": 260.534,
-                  "r_x3": 71.992,
-                  "r_y3": 260.534,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "two sections are connected with a spring, which is an integral",
-                "orig": "two sections are connected with a spring, which is an integral",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 43,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 281.499,
-                  "r_x1": 133.372,
-                  "r_y1": 281.499,
-                  "r_x2": 133.372,
-                  "r_y2": 273.034,
-                  "r_x3": 71.992,
-                  "r_y3": 273.034,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "part of the nut. ",
-                "orig": "part of the nut. ",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              }
-            ],
-            "children": []
-          },
-          {
             "id": 8,
             "label": "text",
             "bbox": {
@@ -150657,7 +150678,7 @@
             "confidence": 0.9851651191711426,
             "cells": [
               {
-                "index": 25,
+                "index": 28,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -150682,7 +150703,7 @@
                 "from_ocr": false
               },
               {
-                "index": 26,
+                "index": 29,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -150707,7 +150728,7 @@
                 "from_ocr": false
               },
               {
-                "index": 27,
+                "index": 30,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -150732,7 +150753,7 @@
                 "from_ocr": false
               },
               {
-                "index": 28,
+                "index": 31,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -150772,7 +150793,7 @@
             "confidence": 0.9873439073562622,
             "cells": [
               {
-                "index": 29,
+                "index": 32,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -150797,7 +150818,7 @@
                 "from_ocr": false
               },
               {
-                "index": 30,
+                "index": 33,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -150822,7 +150843,7 @@
                 "from_ocr": false
               },
               {
-                "index": 31,
+                "index": 34,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -150847,7 +150868,7 @@
                 "from_ocr": false
               },
               {
-                "index": 32,
+                "index": 35,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -150872,7 +150893,7 @@
                 "from_ocr": false
               },
               {
-                "index": 33,
+                "index": 36,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -150897,7 +150918,7 @@
                 "from_ocr": false
               },
               {
-                "index": 34,
+                "index": 37,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -150937,7 +150958,7 @@
             "confidence": 0.9309079647064209,
             "cells": [
               {
-                "index": 35,
+                "index": 38,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -150965,6 +150986,271 @@
             "children": []
           },
           {
+            "id": 6,
+            "label": "text",
+            "bbox": {
+              "l": 71.992,
+              "t": 210.534,
+              "r": 311.519,
+              "b": 281.499,
+              "coord_origin": "TOPLEFT"
+            },
+            "confidence": 0.9866572022438049,
+            "cells": [
+              {
+                "index": 39,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 218.99900000000002,
+                  "r_x1": 173.838,
+                  "r_y1": 218.99900000000002,
+                  "r_x2": 173.838,
+                  "r_y2": 210.534,
+                  "r_x3": 71.992,
+                  "r_y3": 210.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "The  Boots  self-locking",
+                "orig": "The  Boots  self-locking",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 40,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 178.318,
+                  "r_y0": 218.99900000000002,
+                  "r_x1": 266.095,
+                  "r_y1": 218.99900000000002,
+                  "r_x2": 266.095,
+                  "r_y2": 210.534,
+                  "r_x3": 178.318,
+                  "r_y3": 210.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "nut is  of  one  piece,",
+                "orig": "nut is  of  one  piece,",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 41,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 270.575,
+                  "r_y0": 218.99900000000002,
+                  "r_x1": 309.037,
+                  "r_y1": 218.99900000000002,
+                  "r_x2": 309.037,
+                  "r_y2": 210.534,
+                  "r_x3": 270.575,
+                  "r_y3": 210.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "all-metal",
+                "orig": "all-metal",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 42,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 231.49900000000002,
+                  "r_x1": 311.51,
+                  "r_y1": 231.49900000000002,
+                  "r_x2": 311.51,
+                  "r_y2": 223.034,
+                  "r_x3": 71.992,
+                  "r_y3": 223.034,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "construction designed to hold tight despite severe vibration. ",
+                "orig": "construction designed to hold tight despite severe vibration. ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 43,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 243.99900000000002,
+                  "r_x1": 103.502,
+                  "r_y1": 243.99900000000002,
+                  "r_x2": 103.502,
+                  "r_y2": 235.534,
+                  "r_x3": 71.992,
+                  "r_y3": 235.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "Note in ",
+                "orig": "Note in ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 44,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 102.862,
+                  "r_y0": 244.0,
+                  "r_x1": 150.172,
+                  "r_y1": 244.0,
+                  "r_x2": 150.172,
+                  "r_y2": 235.62400000000002,
+                  "r_x3": 102.862,
+                  "r_y3": 235.62400000000002,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "Figure 7-26",
+                "orig": "Figure 7-26",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 45,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 150.162,
+                  "r_y0": 243.99900000000002,
+                  "r_x1": 309.082,
+                  "r_y1": 243.99900000000002,
+                  "r_x2": 309.082,
+                  "r_y2": 235.534,
+                  "r_x3": 150.162,
+                  "r_y3": 235.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": " that it has two sections and is essentially",
+                "orig": " that it has two sections and is essentially",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 46,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 256.499,
+                  "r_x1": 311.519,
+                  "r_y1": 256.499,
+                  "r_x2": 311.519,
+                  "r_y2": 248.034,
+                  "r_x3": 71.992,
+                  "r_y3": 248.034,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "two nuts in one: a locking nut and a load-carrying nut. The ",
+                "orig": "two nuts in one: a locking nut and a load-carrying nut. The ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 47,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 268.999,
+                  "r_x1": 309.042,
+                  "r_y1": 268.999,
+                  "r_x2": 309.042,
+                  "r_y2": 260.534,
+                  "r_x3": 71.992,
+                  "r_y3": 260.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "two sections are connected with a spring, which is an integral",
+                "orig": "two sections are connected with a spring, which is an integral",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 48,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 281.499,
+                  "r_x1": 133.372,
+                  "r_y1": 281.499,
+                  "r_x2": 133.372,
+                  "r_y2": 273.034,
+                  "r_x3": 71.992,
+                  "r_y3": 273.034,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "part of the nut. ",
+                "orig": "part of the nut. ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              }
+            ],
+            "children": []
+          },
+          {
             "id": 1,
             "label": "text",
             "bbox": {
@@ -150977,7 +151263,7 @@
             "confidence": 0.9881331324577332,
             "cells": [
               {
-                "index": 44,
+                "index": 49,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151002,7 +151288,7 @@
                 "from_ocr": false
               },
               {
-                "index": 45,
+                "index": 50,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151027,7 +151313,7 @@
                 "from_ocr": false
               },
               {
-                "index": 46,
+                "index": 51,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151052,7 +151338,7 @@
                 "from_ocr": false
               },
               {
-                "index": 47,
+                "index": 52,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151077,7 +151363,7 @@
                 "from_ocr": false
               },
               {
-                "index": 48,
+                "index": 53,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151102,7 +151388,7 @@
                 "from_ocr": false
               },
               {
-                "index": 49,
+                "index": 54,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151142,7 +151428,7 @@
             "confidence": 0.9882921576499939,
             "cells": [
               {
-                "index": 50,
+                "index": 55,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151167,7 +151453,7 @@
                 "from_ocr": false
               },
               {
-                "index": 51,
+                "index": 56,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151192,7 +151478,7 @@
                 "from_ocr": false
               },
               {
-                "index": 52,
+                "index": 57,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151217,7 +151503,7 @@
                 "from_ocr": false
               },
               {
-                "index": 53,
+                "index": 58,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151242,7 +151528,7 @@
                 "from_ocr": false
               },
               {
-                "index": 54,
+                "index": 59,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151267,7 +151553,7 @@
                 "from_ocr": false
               },
               {
-                "index": 55,
+                "index": 60,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151292,7 +151578,7 @@
                 "from_ocr": false
               },
               {
-                "index": 56,
+                "index": 61,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151317,7 +151603,7 @@
                 "from_ocr": false
               },
               {
-                "index": 57,
+                "index": 62,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151357,7 +151643,7 @@
             "confidence": 0.9695363640785217,
             "cells": [
               {
-                "index": 58,
+                "index": 63,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151382,7 +151668,7 @@
                 "from_ocr": false
               },
               {
-                "index": 59,
+                "index": 64,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151414,7 +151700,7 @@
             "label": "text",
             "bbox": {
               "l": 320.992,
-              "t": 46.03399999999999,
+              "t": 45.81299999999999,
               "r": 560.517,
               "b": 116.99900000000002,
               "coord_origin": "TOPLEFT"
@@ -151422,7 +151708,7 @@
             "confidence": 0.9870070219039917,
             "cells": [
               {
-                "index": 60,
+                "index": 65,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151432,22 +151718,22 @@
                 "rect": {
                   "r_x0": 320.992,
                   "r_y0": 54.499000000000024,
-                  "r_x1": 560.508,
-                  "r_y1": 54.499000000000024,
-                  "r_x2": 560.508,
-                  "r_y2": 46.03399999999999,
+                  "r_x1": 516.813,
+                  "r_y1": 50.46799999999996,
+                  "r_x2": 516.813,
+                  "r_y2": 45.81299999999999,
                   "r_x3": 320.992,
                   "r_y3": 46.03399999999999,
                   "coord_origin": "TOPLEFT"
                 },
-                "text": "the most common ranges in size for No. 6 up to  1 4 inch, the ",
-                "orig": "the most common ranges in size for No. 6 up to  1 4 inch, the ",
+                "text": "the most common ranges in size for No. 6 up to  1",
+                "orig": "the most common ranges in size for No. 6 up to  1",
                 "text_direction": "left_to_right",
                 "confidence": 1.0,
                 "from_ocr": false
               },
               {
-                "index": 61,
+                "index": 66,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151472,7 +151758,57 @@
                 "from_ocr": false
               },
               {
-                "index": 62,
+                "index": 67,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 518.258,
+                  "r_y0": 53.668000000000006,
+                  "r_x1": 521.008,
+                  "r_y1": 53.668000000000006,
+                  "r_x2": 521.008,
+                  "r_y2": 49.013000000000034,
+                  "r_x3": 518.258,
+                  "r_y3": 49.013000000000034,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "4",
+                "orig": "4",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 68,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 521.008,
+                  "r_y0": 54.499000000000024,
+                  "r_x1": 560.508,
+                  "r_y1": 54.499000000000024,
+                  "r_x2": 560.508,
+                  "r_y2": 46.03399999999999,
+                  "r_x3": 521.008,
+                  "r_y3": 46.03399999999999,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": " inch, the ",
+                "orig": " inch, the ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 69,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151482,22 +151818,22 @@
                 "rect": {
                   "r_x0": 320.998,
                   "r_y0": 66.99900000000002,
-                  "r_x1": 443.867,
-                  "r_y1": 66.99900000000002,
-                  "r_x2": 443.867,
-                  "r_y2": 58.53399999999999,
+                  "r_x1": 407.24,
+                  "r_y1": 62.96799999999996,
+                  "r_x2": 407.24,
+                  "r_y2": 58.31299999999999,
                   "r_x3": 320.998,
                   "r_y3": 58.53399999999999,
                   "coord_origin": "TOPLEFT"
                 },
-                "text": "Rol-top ranges from  1 4 inch to ",
-                "orig": "Rol-top ranges from  1 4 inch to ",
+                "text": "Rol-top ranges from  1",
+                "orig": "Rol-top ranges from  1",
                 "text_direction": "left_to_right",
                 "confidence": 1.0,
                 "from_ocr": false
               },
               {
-                "index": 63,
+                "index": 70,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151522,7 +151858,57 @@
                 "from_ocr": false
               },
               {
-                "index": 64,
+                "index": 71,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 408.685,
+                  "r_y0": 66.168,
+                  "r_x1": 411.435,
+                  "r_y1": 66.168,
+                  "r_x2": 411.435,
+                  "r_y2": 61.513000000000034,
+                  "r_x3": 408.685,
+                  "r_y3": 61.513000000000034,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "4",
+                "orig": "4",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 72,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 411.435,
+                  "r_y0": 66.99900000000002,
+                  "r_x1": 443.867,
+                  "r_y1": 66.99900000000002,
+                  "r_x2": 443.867,
+                  "r_y2": 58.53399999999999,
+                  "r_x3": 411.435,
+                  "r_y3": 58.53399999999999,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": " inch to ",
+                "orig": " inch to ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 73,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151547,7 +151933,7 @@
                 "from_ocr": false
               },
               {
-                "index": 65,
+                "index": 74,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151572,7 +151958,7 @@
                 "from_ocr": false
               },
               {
-                "index": 66,
+                "index": 75,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151597,7 +151983,7 @@
                 "from_ocr": false
               },
               {
-                "index": 67,
+                "index": 76,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151622,7 +152008,7 @@
                 "from_ocr": false
               },
               {
-                "index": 68,
+                "index": 77,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151647,7 +152033,7 @@
                 "from_ocr": false
               },
               {
-                "index": 69,
+                "index": 78,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151672,7 +152058,7 @@
                 "from_ocr": false
               },
               {
-                "index": 70,
+                "index": 79,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151697,7 +152083,7 @@
                 "from_ocr": false
               },
               {
-                "index": 71,
+                "index": 80,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151722,7 +152108,7 @@
                 "from_ocr": false
               },
               {
-                "index": 72,
+                "index": 81,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151747,7 +152133,7 @@
                 "from_ocr": false
               },
               {
-                "index": 73,
+                "index": 82,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151772,7 +152158,7 @@
                 "from_ocr": false
               },
               {
-                "index": 74,
+                "index": 83,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151797,7 +152183,7 @@
                 "from_ocr": false
               },
               {
-                "index": 75,
+                "index": 84,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151837,7 +152223,7 @@
             "confidence": 1.0,
             "cells": [
               {
-                "index": 76,
+                "index": 85,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151877,7 +152263,7 @@
             "confidence": 0.9263731241226196,
             "cells": [
               {
-                "index": 77,
+                "index": 86,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151917,7 +152303,7 @@
             "confidence": 0.9879258871078491,
             "cells": [
               {
-                "index": 78,
+                "index": 87,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151942,7 +152328,7 @@
                 "from_ocr": false
               },
               {
-                "index": 79,
+                "index": 88,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151967,7 +152353,7 @@
                 "from_ocr": false
               },
               {
-                "index": 80,
+                "index": 89,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -151992,7 +152378,7 @@
                 "from_ocr": false
               },
               {
-                "index": 81,
+                "index": 90,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152017,7 +152403,7 @@
                 "from_ocr": false
               },
               {
-                "index": 82,
+                "index": 91,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152042,7 +152428,7 @@
                 "from_ocr": false
               },
               {
-                "index": 83,
+                "index": 92,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152067,7 +152453,7 @@
                 "from_ocr": false
               },
               {
-                "index": 84,
+                "index": 93,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152092,7 +152478,7 @@
                 "from_ocr": false
               },
               {
-                "index": 85,
+                "index": 94,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152117,7 +152503,7 @@
                 "from_ocr": false
               },
               {
-                "index": 86,
+                "index": 95,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152142,7 +152528,7 @@
                 "from_ocr": false
               },
               {
-                "index": 87,
+                "index": 96,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152167,7 +152553,7 @@
                 "from_ocr": false
               },
               {
-                "index": 88,
+                "index": 97,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152192,7 +152578,7 @@
                 "from_ocr": false
               },
               {
-                "index": 89,
+                "index": 98,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152217,7 +152603,7 @@
                 "from_ocr": false
               },
               {
-                "index": 90,
+                "index": 99,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152242,7 +152628,7 @@
                 "from_ocr": false
               },
               {
-                "index": 91,
+                "index": 100,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152267,7 +152653,7 @@
                 "from_ocr": false
               },
               {
-                "index": 92,
+                "index": 101,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152292,7 +152678,7 @@
                 "from_ocr": false
               },
               {
-                "index": 93,
+                "index": 102,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152317,7 +152703,7 @@
                 "from_ocr": false
               },
               {
-                "index": 94,
+                "index": 103,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152342,7 +152728,7 @@
                 "from_ocr": false
               },
               {
-                "index": 95,
+                "index": 104,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152367,7 +152753,7 @@
                 "from_ocr": false
               },
               {
-                "index": 96,
+                "index": 105,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152407,7 +152793,7 @@
             "confidence": 0.9253152012825012,
             "cells": [
               {
-                "index": 97,
+                "index": 106,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152447,7 +152833,7 @@
             "confidence": 0.9676451683044434,
             "cells": [
               {
-                "index": 98,
+                "index": 107,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152472,7 +152858,7 @@
                 "from_ocr": false
               },
               {
-                "index": 99,
+                "index": 108,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152512,7 +152898,7 @@
             "confidence": 0.9881086945533752,
             "cells": [
               {
-                "index": 100,
+                "index": 109,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152537,7 +152923,7 @@
                 "from_ocr": false
               },
               {
-                "index": 101,
+                "index": 110,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152562,7 +152948,7 @@
                 "from_ocr": false
               },
               {
-                "index": 102,
+                "index": 111,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152587,7 +152973,7 @@
                 "from_ocr": false
               },
               {
-                "index": 103,
+                "index": 112,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152612,7 +152998,7 @@
                 "from_ocr": false
               },
               {
-                "index": 104,
+                "index": 113,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152637,7 +153023,7 @@
                 "from_ocr": false
               },
               {
-                "index": 105,
+                "index": 114,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152676,7 +153062,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 100,
+                    "index": 109,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -152716,7 +153102,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 101,
+                    "index": 110,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -152756,7 +153142,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 102,
+                    "index": 111,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -152796,7 +153182,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 103,
+                    "index": 112,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -152836,7 +153222,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 104,
+                    "index": 113,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -152876,7 +153262,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 105,
+                    "index": 114,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -152918,7 +153304,7 @@
             "confidence": 0.9858751893043518,
             "cells": [
               {
-                "index": 106,
+                "index": 115,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152943,7 +153329,7 @@
                 "from_ocr": false
               },
               {
-                "index": 107,
+                "index": 116,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152968,7 +153354,7 @@
                 "from_ocr": false
               },
               {
-                "index": 108,
+                "index": 117,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -152993,7 +153379,7 @@
                 "from_ocr": false
               },
               {
-                "index": 109,
+                "index": 118,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153018,7 +153404,7 @@
                 "from_ocr": false
               },
               {
-                "index": 110,
+                "index": 119,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153057,7 +153443,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 106,
+                    "index": 115,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -153097,7 +153483,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 107,
+                    "index": 116,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -153137,7 +153523,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 108,
+                    "index": 117,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -153177,7 +153563,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 109,
+                    "index": 118,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -153217,7 +153603,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 110,
+                    "index": 119,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -153259,7 +153645,7 @@
             "confidence": 0.9449448585510254,
             "cells": [
               {
-                "index": 111,
+                "index": 120,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153284,7 +153670,7 @@
                 "from_ocr": false
               },
               {
-                "index": 112,
+                "index": 121,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153324,7 +153710,7 @@
             "confidence": 0.9497622847557068,
             "cells": [
               {
-                "index": 113,
+                "index": 122,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153349,7 +153735,7 @@
                 "from_ocr": false
               },
               {
-                "index": 114,
+                "index": 123,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153389,7 +153775,7 @@
             "confidence": 0.9368568658828735,
             "cells": [
               {
-                "index": 115,
+                "index": 124,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153429,252 +153815,6 @@
       "elements": [
         {
           "label": "text",
-          "id": 6,
-          "page_no": 0,
-          "cluster": {
-            "id": 6,
-            "label": "text",
-            "bbox": {
-              "l": 71.992,
-              "t": 210.534,
-              "r": 311.548,
-              "b": 281.499,
-              "coord_origin": "TOPLEFT"
-            },
-            "confidence": 0.9866572022438049,
-            "cells": [
-              {
-                "index": 10,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 174.212,
-                  "r_y0": 218.99900000000002,
-                  "r_x1": 311.548,
-                  "r_y1": 218.99900000000002,
-                  "r_x2": 311.548,
-                  "r_y2": 210.534,
-                  "r_x3": 174.212,
-                  "r_y3": 210.534,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "  nut  is  of  one  piece,  all-metal ",
-                "orig": "  nut  is  of  one  piece,  all-metal ",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 36,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 218.99900000000002,
-                  "r_x1": 173.838,
-                  "r_y1": 218.99900000000002,
-                  "r_x2": 173.838,
-                  "r_y2": 210.534,
-                  "r_x3": 71.992,
-                  "r_y3": 210.534,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "The  Boots  self-locking",
-                "orig": "The  Boots  self-locking",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 37,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 231.49900000000002,
-                  "r_x1": 311.51,
-                  "r_y1": 231.49900000000002,
-                  "r_x2": 311.51,
-                  "r_y2": 223.034,
-                  "r_x3": 71.992,
-                  "r_y3": 223.034,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "construction designed to hold tight despite severe vibration. ",
-                "orig": "construction designed to hold tight despite severe vibration. ",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 38,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 243.99900000000002,
-                  "r_x1": 103.502,
-                  "r_y1": 243.99900000000002,
-                  "r_x2": 103.502,
-                  "r_y2": 235.534,
-                  "r_x3": 71.992,
-                  "r_y3": 235.534,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "Note in ",
-                "orig": "Note in ",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 39,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 102.862,
-                  "r_y0": 244.0,
-                  "r_x1": 150.172,
-                  "r_y1": 244.0,
-                  "r_x2": 150.172,
-                  "r_y2": 235.62400000000002,
-                  "r_x3": 102.862,
-                  "r_y3": 235.62400000000002,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "Figure 7-26",
-                "orig": "Figure 7-26",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 40,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 150.162,
-                  "r_y0": 243.99900000000002,
-                  "r_x1": 309.082,
-                  "r_y1": 243.99900000000002,
-                  "r_x2": 309.082,
-                  "r_y2": 235.534,
-                  "r_x3": 150.162,
-                  "r_y3": 235.534,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": " that it has two sections and is essentially",
-                "orig": " that it has two sections and is essentially",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 41,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 256.499,
-                  "r_x1": 311.519,
-                  "r_y1": 256.499,
-                  "r_x2": 311.519,
-                  "r_y2": 248.034,
-                  "r_x3": 71.992,
-                  "r_y3": 248.034,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "two nuts in one: a locking nut and a load-carrying nut. The ",
-                "orig": "two nuts in one: a locking nut and a load-carrying nut. The ",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 42,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 268.999,
-                  "r_x1": 309.042,
-                  "r_y1": 268.999,
-                  "r_x2": 309.042,
-                  "r_y2": 260.534,
-                  "r_x3": 71.992,
-                  "r_y3": 260.534,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "two sections are connected with a spring, which is an integral",
-                "orig": "two sections are connected with a spring, which is an integral",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 43,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 281.499,
-                  "r_x1": 133.372,
-                  "r_y1": 281.499,
-                  "r_x2": 133.372,
-                  "r_y2": 273.034,
-                  "r_x3": 71.992,
-                  "r_y3": 273.034,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "part of the nut. ",
-                "orig": "part of the nut. ",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              }
-            ],
-            "children": []
-          },
-          "text": "nut  is  of  one  piece,  all-metal The  Boots  self-locking construction designed to hold tight despite severe vibration. Note in Figure 7-26 that it has two sections and is essentially two nuts in one: a locking nut and a load-carrying nut. The two sections are connected with a spring, which is an integral part of the nut."
-        },
-        {
-          "label": "text",
           "id": 8,
           "page_no": 0,
           "cluster": {
@@ -153690,7 +153830,7 @@
             "confidence": 0.9851651191711426,
             "cells": [
               {
-                "index": 25,
+                "index": 28,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153715,7 +153855,7 @@
                 "from_ocr": false
               },
               {
-                "index": 26,
+                "index": 29,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153740,7 +153880,7 @@
                 "from_ocr": false
               },
               {
-                "index": 27,
+                "index": 30,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153765,7 +153905,7 @@
                 "from_ocr": false
               },
               {
-                "index": 28,
+                "index": 31,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153811,7 +153951,7 @@
             "confidence": 0.9873439073562622,
             "cells": [
               {
-                "index": 29,
+                "index": 32,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153836,7 +153976,7 @@
                 "from_ocr": false
               },
               {
-                "index": 30,
+                "index": 33,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153861,7 +154001,7 @@
                 "from_ocr": false
               },
               {
-                "index": 31,
+                "index": 34,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153886,7 +154026,7 @@
                 "from_ocr": false
               },
               {
-                "index": 32,
+                "index": 35,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153911,7 +154051,7 @@
                 "from_ocr": false
               },
               {
-                "index": 33,
+                "index": 36,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153936,7 +154076,7 @@
                 "from_ocr": false
               },
               {
-                "index": 34,
+                "index": 37,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -153982,7 +154122,7 @@
             "confidence": 0.9309079647064209,
             "cells": [
               {
-                "index": 35,
+                "index": 38,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154013,6 +154153,277 @@
         },
         {
           "label": "text",
+          "id": 6,
+          "page_no": 0,
+          "cluster": {
+            "id": 6,
+            "label": "text",
+            "bbox": {
+              "l": 71.992,
+              "t": 210.534,
+              "r": 311.519,
+              "b": 281.499,
+              "coord_origin": "TOPLEFT"
+            },
+            "confidence": 0.9866572022438049,
+            "cells": [
+              {
+                "index": 39,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 218.99900000000002,
+                  "r_x1": 173.838,
+                  "r_y1": 218.99900000000002,
+                  "r_x2": 173.838,
+                  "r_y2": 210.534,
+                  "r_x3": 71.992,
+                  "r_y3": 210.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "The  Boots  self-locking",
+                "orig": "The  Boots  self-locking",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 40,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 178.318,
+                  "r_y0": 218.99900000000002,
+                  "r_x1": 266.095,
+                  "r_y1": 218.99900000000002,
+                  "r_x2": 266.095,
+                  "r_y2": 210.534,
+                  "r_x3": 178.318,
+                  "r_y3": 210.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "nut is  of  one  piece,",
+                "orig": "nut is  of  one  piece,",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 41,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 270.575,
+                  "r_y0": 218.99900000000002,
+                  "r_x1": 309.037,
+                  "r_y1": 218.99900000000002,
+                  "r_x2": 309.037,
+                  "r_y2": 210.534,
+                  "r_x3": 270.575,
+                  "r_y3": 210.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "all-metal",
+                "orig": "all-metal",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 42,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 231.49900000000002,
+                  "r_x1": 311.51,
+                  "r_y1": 231.49900000000002,
+                  "r_x2": 311.51,
+                  "r_y2": 223.034,
+                  "r_x3": 71.992,
+                  "r_y3": 223.034,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "construction designed to hold tight despite severe vibration. ",
+                "orig": "construction designed to hold tight despite severe vibration. ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 43,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 243.99900000000002,
+                  "r_x1": 103.502,
+                  "r_y1": 243.99900000000002,
+                  "r_x2": 103.502,
+                  "r_y2": 235.534,
+                  "r_x3": 71.992,
+                  "r_y3": 235.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "Note in ",
+                "orig": "Note in ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 44,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 102.862,
+                  "r_y0": 244.0,
+                  "r_x1": 150.172,
+                  "r_y1": 244.0,
+                  "r_x2": 150.172,
+                  "r_y2": 235.62400000000002,
+                  "r_x3": 102.862,
+                  "r_y3": 235.62400000000002,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "Figure 7-26",
+                "orig": "Figure 7-26",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 45,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 150.162,
+                  "r_y0": 243.99900000000002,
+                  "r_x1": 309.082,
+                  "r_y1": 243.99900000000002,
+                  "r_x2": 309.082,
+                  "r_y2": 235.534,
+                  "r_x3": 150.162,
+                  "r_y3": 235.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": " that it has two sections and is essentially",
+                "orig": " that it has two sections and is essentially",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 46,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 256.499,
+                  "r_x1": 311.519,
+                  "r_y1": 256.499,
+                  "r_x2": 311.519,
+                  "r_y2": 248.034,
+                  "r_x3": 71.992,
+                  "r_y3": 248.034,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "two nuts in one: a locking nut and a load-carrying nut. The ",
+                "orig": "two nuts in one: a locking nut and a load-carrying nut. The ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 47,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 268.999,
+                  "r_x1": 309.042,
+                  "r_y1": 268.999,
+                  "r_x2": 309.042,
+                  "r_y2": 260.534,
+                  "r_x3": 71.992,
+                  "r_y3": 260.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "two sections are connected with a spring, which is an integral",
+                "orig": "two sections are connected with a spring, which is an integral",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 48,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 281.499,
+                  "r_x1": 133.372,
+                  "r_y1": 281.499,
+                  "r_x2": 133.372,
+                  "r_y2": 273.034,
+                  "r_x3": 71.992,
+                  "r_y3": 273.034,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "part of the nut. ",
+                "orig": "part of the nut. ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              }
+            ],
+            "children": []
+          },
+          "text": "The  Boots  self-locking nut is  of  one  piece, all-metal construction designed to hold tight despite severe vibration. Note in Figure 7-26 that it has two sections and is essentially two nuts in one: a locking nut and a load-carrying nut. The two sections are connected with a spring, which is an integral part of the nut."
+        },
+        {
+          "label": "text",
           "id": 1,
           "page_no": 0,
           "cluster": {
@@ -154028,7 +154439,7 @@
             "confidence": 0.9881331324577332,
             "cells": [
               {
-                "index": 44,
+                "index": 49,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154053,7 +154464,7 @@
                 "from_ocr": false
               },
               {
-                "index": 45,
+                "index": 50,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154078,7 +154489,7 @@
                 "from_ocr": false
               },
               {
-                "index": 46,
+                "index": 51,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154103,7 +154514,7 @@
                 "from_ocr": false
               },
               {
-                "index": 47,
+                "index": 52,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154128,7 +154539,7 @@
                 "from_ocr": false
               },
               {
-                "index": 48,
+                "index": 53,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154153,7 +154564,7 @@
                 "from_ocr": false
               },
               {
-                "index": 49,
+                "index": 54,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154199,7 +154610,7 @@
             "confidence": 0.9882921576499939,
             "cells": [
               {
-                "index": 50,
+                "index": 55,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154224,7 +154635,7 @@
                 "from_ocr": false
               },
               {
-                "index": 51,
+                "index": 56,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154249,7 +154660,7 @@
                 "from_ocr": false
               },
               {
-                "index": 52,
+                "index": 57,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154274,7 +154685,7 @@
                 "from_ocr": false
               },
               {
-                "index": 53,
+                "index": 58,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154299,7 +154710,7 @@
                 "from_ocr": false
               },
               {
-                "index": 54,
+                "index": 59,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154324,7 +154735,7 @@
                 "from_ocr": false
               },
               {
-                "index": 55,
+                "index": 60,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154349,7 +154760,7 @@
                 "from_ocr": false
               },
               {
-                "index": 56,
+                "index": 61,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154374,7 +154785,7 @@
                 "from_ocr": false
               },
               {
-                "index": 57,
+                "index": 62,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154420,7 +154831,7 @@
             "confidence": 0.9695363640785217,
             "cells": [
               {
-                "index": 58,
+                "index": 63,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154445,7 +154856,7 @@
                 "from_ocr": false
               },
               {
-                "index": 59,
+                "index": 64,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154483,7 +154894,7 @@
             "label": "text",
             "bbox": {
               "l": 320.992,
-              "t": 46.03399999999999,
+              "t": 45.81299999999999,
               "r": 560.517,
               "b": 116.99900000000002,
               "coord_origin": "TOPLEFT"
@@ -154491,7 +154902,7 @@
             "confidence": 0.9870070219039917,
             "cells": [
               {
-                "index": 60,
+                "index": 65,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154501,22 +154912,22 @@
                 "rect": {
                   "r_x0": 320.992,
                   "r_y0": 54.499000000000024,
-                  "r_x1": 560.508,
-                  "r_y1": 54.499000000000024,
-                  "r_x2": 560.508,
-                  "r_y2": 46.03399999999999,
+                  "r_x1": 516.813,
+                  "r_y1": 50.46799999999996,
+                  "r_x2": 516.813,
+                  "r_y2": 45.81299999999999,
                   "r_x3": 320.992,
                   "r_y3": 46.03399999999999,
                   "coord_origin": "TOPLEFT"
                 },
-                "text": "the most common ranges in size for No. 6 up to  1 4 inch, the ",
-                "orig": "the most common ranges in size for No. 6 up to  1 4 inch, the ",
+                "text": "the most common ranges in size for No. 6 up to  1",
+                "orig": "the most common ranges in size for No. 6 up to  1",
                 "text_direction": "left_to_right",
                 "confidence": 1.0,
                 "from_ocr": false
               },
               {
-                "index": 61,
+                "index": 66,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154541,7 +154952,57 @@
                 "from_ocr": false
               },
               {
-                "index": 62,
+                "index": 67,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 518.258,
+                  "r_y0": 53.668000000000006,
+                  "r_x1": 521.008,
+                  "r_y1": 53.668000000000006,
+                  "r_x2": 521.008,
+                  "r_y2": 49.013000000000034,
+                  "r_x3": 518.258,
+                  "r_y3": 49.013000000000034,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "4",
+                "orig": "4",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 68,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 521.008,
+                  "r_y0": 54.499000000000024,
+                  "r_x1": 560.508,
+                  "r_y1": 54.499000000000024,
+                  "r_x2": 560.508,
+                  "r_y2": 46.03399999999999,
+                  "r_x3": 521.008,
+                  "r_y3": 46.03399999999999,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": " inch, the ",
+                "orig": " inch, the ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 69,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154551,22 +155012,22 @@
                 "rect": {
                   "r_x0": 320.998,
                   "r_y0": 66.99900000000002,
-                  "r_x1": 443.867,
-                  "r_y1": 66.99900000000002,
-                  "r_x2": 443.867,
-                  "r_y2": 58.53399999999999,
+                  "r_x1": 407.24,
+                  "r_y1": 62.96799999999996,
+                  "r_x2": 407.24,
+                  "r_y2": 58.31299999999999,
                   "r_x3": 320.998,
                   "r_y3": 58.53399999999999,
                   "coord_origin": "TOPLEFT"
                 },
-                "text": "Rol-top ranges from  1 4 inch to ",
-                "orig": "Rol-top ranges from  1 4 inch to ",
+                "text": "Rol-top ranges from  1",
+                "orig": "Rol-top ranges from  1",
                 "text_direction": "left_to_right",
                 "confidence": 1.0,
                 "from_ocr": false
               },
               {
-                "index": 63,
+                "index": 70,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154591,7 +155052,57 @@
                 "from_ocr": false
               },
               {
-                "index": 64,
+                "index": 71,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 408.685,
+                  "r_y0": 66.168,
+                  "r_x1": 411.435,
+                  "r_y1": 66.168,
+                  "r_x2": 411.435,
+                  "r_y2": 61.513000000000034,
+                  "r_x3": 408.685,
+                  "r_y3": 61.513000000000034,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "4",
+                "orig": "4",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 72,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 411.435,
+                  "r_y0": 66.99900000000002,
+                  "r_x1": 443.867,
+                  "r_y1": 66.99900000000002,
+                  "r_x2": 443.867,
+                  "r_y2": 58.53399999999999,
+                  "r_x3": 411.435,
+                  "r_y3": 58.53399999999999,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": " inch to ",
+                "orig": " inch to ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 73,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154616,7 +155127,7 @@
                 "from_ocr": false
               },
               {
-                "index": 65,
+                "index": 74,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154641,7 +155152,7 @@
                 "from_ocr": false
               },
               {
-                "index": 66,
+                "index": 75,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154666,7 +155177,7 @@
                 "from_ocr": false
               },
               {
-                "index": 67,
+                "index": 76,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154691,7 +155202,7 @@
                 "from_ocr": false
               },
               {
-                "index": 68,
+                "index": 77,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154716,7 +155227,7 @@
                 "from_ocr": false
               },
               {
-                "index": 69,
+                "index": 78,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154741,7 +155252,7 @@
                 "from_ocr": false
               },
               {
-                "index": 70,
+                "index": 79,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154766,7 +155277,7 @@
                 "from_ocr": false
               },
               {
-                "index": 71,
+                "index": 80,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154791,7 +155302,7 @@
                 "from_ocr": false
               },
               {
-                "index": 72,
+                "index": 81,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154816,7 +155327,7 @@
                 "from_ocr": false
               },
               {
-                "index": 73,
+                "index": 82,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154841,7 +155352,7 @@
                 "from_ocr": false
               },
               {
-                "index": 74,
+                "index": 83,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154866,7 +155377,7 @@
                 "from_ocr": false
               },
               {
-                "index": 75,
+                "index": 84,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154893,7 +155404,7 @@
             ],
             "children": []
           },
-          "text": "the most common ranges in size for No. 6 up to  1 4 inch, the / Rol-top ranges from  1 4 inch to / 1 / 6 inch, and the bellows type ranges in size from No. 8 up to 3 / 8 inch. Wing-type nuts are made of anodized aluminum alloy, cadmium-plated carbon steel, or stainless steel. The Rol-top nut is cadmium-plated steel, and the bellows type is made of aluminum alloy only."
+          "text": "the most common ranges in size for No. 6 up to  1 / 4 inch, the Rol-top ranges from  1 / 4 inch to 1 / 6 inch, and the bellows type ranges in size from No. 8 up to 3 / 8 inch. Wing-type nuts are made of anodized aluminum alloy, cadmium-plated carbon steel, or stainless steel. The Rol-top nut is cadmium-plated steel, and the bellows type is made of aluminum alloy only."
         },
         {
           "label": "text",
@@ -154912,7 +155423,7 @@
             "confidence": 1.0,
             "cells": [
               {
-                "index": 76,
+                "index": 85,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -154958,7 +155469,7 @@
             "confidence": 0.9263731241226196,
             "cells": [
               {
-                "index": 77,
+                "index": 86,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155004,7 +155515,7 @@
             "confidence": 0.9879258871078491,
             "cells": [
               {
-                "index": 78,
+                "index": 87,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155029,7 +155540,7 @@
                 "from_ocr": false
               },
               {
-                "index": 79,
+                "index": 88,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155054,7 +155565,7 @@
                 "from_ocr": false
               },
               {
-                "index": 80,
+                "index": 89,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155079,7 +155590,7 @@
                 "from_ocr": false
               },
               {
-                "index": 81,
+                "index": 90,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155104,7 +155615,7 @@
                 "from_ocr": false
               },
               {
-                "index": 82,
+                "index": 91,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155129,7 +155640,7 @@
                 "from_ocr": false
               },
               {
-                "index": 83,
+                "index": 92,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155154,7 +155665,7 @@
                 "from_ocr": false
               },
               {
-                "index": 84,
+                "index": 93,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155179,7 +155690,7 @@
                 "from_ocr": false
               },
               {
-                "index": 85,
+                "index": 94,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155204,7 +155715,7 @@
                 "from_ocr": false
               },
               {
-                "index": 86,
+                "index": 95,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155229,7 +155740,7 @@
                 "from_ocr": false
               },
               {
-                "index": 87,
+                "index": 96,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155254,7 +155765,7 @@
                 "from_ocr": false
               },
               {
-                "index": 88,
+                "index": 97,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155279,7 +155790,7 @@
                 "from_ocr": false
               },
               {
-                "index": 89,
+                "index": 98,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155304,7 +155815,7 @@
                 "from_ocr": false
               },
               {
-                "index": 90,
+                "index": 99,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155329,7 +155840,7 @@
                 "from_ocr": false
               },
               {
-                "index": 91,
+                "index": 100,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155354,7 +155865,7 @@
                 "from_ocr": false
               },
               {
-                "index": 92,
+                "index": 101,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155379,7 +155890,7 @@
                 "from_ocr": false
               },
               {
-                "index": 93,
+                "index": 102,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155404,7 +155915,7 @@
                 "from_ocr": false
               },
               {
-                "index": 94,
+                "index": 103,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155429,7 +155940,7 @@
                 "from_ocr": false
               },
               {
-                "index": 95,
+                "index": 104,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155454,7 +155965,7 @@
                 "from_ocr": false
               },
               {
-                "index": 96,
+                "index": 105,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155500,7 +156011,7 @@
             "confidence": 0.9253152012825012,
             "cells": [
               {
-                "index": 97,
+                "index": 106,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155546,7 +156057,7 @@
             "confidence": 0.9676451683044434,
             "cells": [
               {
-                "index": 98,
+                "index": 107,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155571,7 +156082,7 @@
                 "from_ocr": false
               },
               {
-                "index": 99,
+                "index": 108,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155617,7 +156128,7 @@
             "confidence": 0.9881086945533752,
             "cells": [
               {
-                "index": 100,
+                "index": 109,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155642,7 +156153,7 @@
                 "from_ocr": false
               },
               {
-                "index": 101,
+                "index": 110,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155667,7 +156178,7 @@
                 "from_ocr": false
               },
               {
-                "index": 102,
+                "index": 111,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155692,7 +156203,7 @@
                 "from_ocr": false
               },
               {
-                "index": 103,
+                "index": 112,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155717,7 +156228,7 @@
                 "from_ocr": false
               },
               {
-                "index": 104,
+                "index": 113,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155742,7 +156253,7 @@
                 "from_ocr": false
               },
               {
-                "index": 105,
+                "index": 114,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -155781,7 +156292,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 100,
+                    "index": 109,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -155821,7 +156332,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 101,
+                    "index": 110,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -155861,7 +156372,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 102,
+                    "index": 111,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -155901,7 +156412,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 103,
+                    "index": 112,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -155941,7 +156452,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 104,
+                    "index": 113,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -155981,7 +156492,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 105,
+                    "index": 114,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -156033,7 +156544,7 @@
             "confidence": 0.9858751893043518,
             "cells": [
               {
-                "index": 106,
+                "index": 115,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -156058,7 +156569,7 @@
                 "from_ocr": false
               },
               {
-                "index": 107,
+                "index": 116,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -156083,7 +156594,7 @@
                 "from_ocr": false
               },
               {
-                "index": 108,
+                "index": 117,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -156108,7 +156619,7 @@
                 "from_ocr": false
               },
               {
-                "index": 109,
+                "index": 118,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -156133,7 +156644,7 @@
                 "from_ocr": false
               },
               {
-                "index": 110,
+                "index": 119,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -156172,7 +156683,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 106,
+                    "index": 115,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -156212,7 +156723,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 107,
+                    "index": 116,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -156252,7 +156763,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 108,
+                    "index": 117,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -156292,7 +156803,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 109,
+                    "index": 118,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -156332,7 +156843,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 110,
+                    "index": 119,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -156384,7 +156895,7 @@
             "confidence": 0.9449448585510254,
             "cells": [
               {
-                "index": 111,
+                "index": 120,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -156409,7 +156920,7 @@
                 "from_ocr": false
               },
               {
-                "index": 112,
+                "index": 121,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -156455,7 +156966,7 @@
             "confidence": 0.9497622847557068,
             "cells": [
               {
-                "index": 113,
+                "index": 122,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -156480,7 +156991,7 @@
                 "from_ocr": false
               },
               {
-                "index": 114,
+                "index": 123,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -156526,7 +157037,7 @@
             "confidence": 0.9368568658828735,
             "cells": [
               {
-                "index": 115,
+                "index": 124,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -156559,252 +157070,6 @@
       "body": [
         {
           "label": "text",
-          "id": 6,
-          "page_no": 0,
-          "cluster": {
-            "id": 6,
-            "label": "text",
-            "bbox": {
-              "l": 71.992,
-              "t": 210.534,
-              "r": 311.548,
-              "b": 281.499,
-              "coord_origin": "TOPLEFT"
-            },
-            "confidence": 0.9866572022438049,
-            "cells": [
-              {
-                "index": 10,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 174.212,
-                  "r_y0": 218.99900000000002,
-                  "r_x1": 311.548,
-                  "r_y1": 218.99900000000002,
-                  "r_x2": 311.548,
-                  "r_y2": 210.534,
-                  "r_x3": 174.212,
-                  "r_y3": 210.534,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "  nut  is  of  one  piece,  all-metal ",
-                "orig": "  nut  is  of  one  piece,  all-metal ",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 36,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 218.99900000000002,
-                  "r_x1": 173.838,
-                  "r_y1": 218.99900000000002,
-                  "r_x2": 173.838,
-                  "r_y2": 210.534,
-                  "r_x3": 71.992,
-                  "r_y3": 210.534,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "The  Boots  self-locking",
-                "orig": "The  Boots  self-locking",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 37,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 231.49900000000002,
-                  "r_x1": 311.51,
-                  "r_y1": 231.49900000000002,
-                  "r_x2": 311.51,
-                  "r_y2": 223.034,
-                  "r_x3": 71.992,
-                  "r_y3": 223.034,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "construction designed to hold tight despite severe vibration. ",
-                "orig": "construction designed to hold tight despite severe vibration. ",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 38,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 243.99900000000002,
-                  "r_x1": 103.502,
-                  "r_y1": 243.99900000000002,
-                  "r_x2": 103.502,
-                  "r_y2": 235.534,
-                  "r_x3": 71.992,
-                  "r_y3": 235.534,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "Note in ",
-                "orig": "Note in ",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 39,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 102.862,
-                  "r_y0": 244.0,
-                  "r_x1": 150.172,
-                  "r_y1": 244.0,
-                  "r_x2": 150.172,
-                  "r_y2": 235.62400000000002,
-                  "r_x3": 102.862,
-                  "r_y3": 235.62400000000002,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "Figure 7-26",
-                "orig": "Figure 7-26",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 40,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 150.162,
-                  "r_y0": 243.99900000000002,
-                  "r_x1": 309.082,
-                  "r_y1": 243.99900000000002,
-                  "r_x2": 309.082,
-                  "r_y2": 235.534,
-                  "r_x3": 150.162,
-                  "r_y3": 235.534,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": " that it has two sections and is essentially",
-                "orig": " that it has two sections and is essentially",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 41,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 256.499,
-                  "r_x1": 311.519,
-                  "r_y1": 256.499,
-                  "r_x2": 311.519,
-                  "r_y2": 248.034,
-                  "r_x3": 71.992,
-                  "r_y3": 248.034,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "two nuts in one: a locking nut and a load-carrying nut. The ",
-                "orig": "two nuts in one: a locking nut and a load-carrying nut. The ",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 42,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 268.999,
-                  "r_x1": 309.042,
-                  "r_y1": 268.999,
-                  "r_x2": 309.042,
-                  "r_y2": 260.534,
-                  "r_x3": 71.992,
-                  "r_y3": 260.534,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "two sections are connected with a spring, which is an integral",
-                "orig": "two sections are connected with a spring, which is an integral",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              },
-              {
-                "index": 43,
-                "rgba": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 255
-                },
-                "rect": {
-                  "r_x0": 71.992,
-                  "r_y0": 281.499,
-                  "r_x1": 133.372,
-                  "r_y1": 281.499,
-                  "r_x2": 133.372,
-                  "r_y2": 273.034,
-                  "r_x3": 71.992,
-                  "r_y3": 273.034,
-                  "coord_origin": "TOPLEFT"
-                },
-                "text": "part of the nut. ",
-                "orig": "part of the nut. ",
-                "text_direction": "left_to_right",
-                "confidence": 1.0,
-                "from_ocr": false
-              }
-            ],
-            "children": []
-          },
-          "text": "nut  is  of  one  piece,  all-metal The  Boots  self-locking construction designed to hold tight despite severe vibration. Note in Figure 7-26 that it has two sections and is essentially two nuts in one: a locking nut and a load-carrying nut. The two sections are connected with a spring, which is an integral part of the nut."
-        },
-        {
-          "label": "text",
           "id": 8,
           "page_no": 0,
           "cluster": {
@@ -156820,7 +157085,7 @@
             "confidence": 0.9851651191711426,
             "cells": [
               {
-                "index": 25,
+                "index": 28,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -156845,7 +157110,7 @@
                 "from_ocr": false
               },
               {
-                "index": 26,
+                "index": 29,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -156870,7 +157135,7 @@
                 "from_ocr": false
               },
               {
-                "index": 27,
+                "index": 30,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -156895,7 +157160,7 @@
                 "from_ocr": false
               },
               {
-                "index": 28,
+                "index": 31,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -156941,7 +157206,7 @@
             "confidence": 0.9873439073562622,
             "cells": [
               {
-                "index": 29,
+                "index": 32,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -156966,7 +157231,7 @@
                 "from_ocr": false
               },
               {
-                "index": 30,
+                "index": 33,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -156991,7 +157256,7 @@
                 "from_ocr": false
               },
               {
-                "index": 31,
+                "index": 34,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157016,7 +157281,7 @@
                 "from_ocr": false
               },
               {
-                "index": 32,
+                "index": 35,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157041,7 +157306,7 @@
                 "from_ocr": false
               },
               {
-                "index": 33,
+                "index": 36,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157066,7 +157331,7 @@
                 "from_ocr": false
               },
               {
-                "index": 34,
+                "index": 37,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157112,7 +157377,7 @@
             "confidence": 0.9309079647064209,
             "cells": [
               {
-                "index": 35,
+                "index": 38,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157143,6 +157408,277 @@
         },
         {
           "label": "text",
+          "id": 6,
+          "page_no": 0,
+          "cluster": {
+            "id": 6,
+            "label": "text",
+            "bbox": {
+              "l": 71.992,
+              "t": 210.534,
+              "r": 311.519,
+              "b": 281.499,
+              "coord_origin": "TOPLEFT"
+            },
+            "confidence": 0.9866572022438049,
+            "cells": [
+              {
+                "index": 39,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 218.99900000000002,
+                  "r_x1": 173.838,
+                  "r_y1": 218.99900000000002,
+                  "r_x2": 173.838,
+                  "r_y2": 210.534,
+                  "r_x3": 71.992,
+                  "r_y3": 210.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "The  Boots  self-locking",
+                "orig": "The  Boots  self-locking",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 40,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 178.318,
+                  "r_y0": 218.99900000000002,
+                  "r_x1": 266.095,
+                  "r_y1": 218.99900000000002,
+                  "r_x2": 266.095,
+                  "r_y2": 210.534,
+                  "r_x3": 178.318,
+                  "r_y3": 210.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "nut is  of  one  piece,",
+                "orig": "nut is  of  one  piece,",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 41,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 270.575,
+                  "r_y0": 218.99900000000002,
+                  "r_x1": 309.037,
+                  "r_y1": 218.99900000000002,
+                  "r_x2": 309.037,
+                  "r_y2": 210.534,
+                  "r_x3": 270.575,
+                  "r_y3": 210.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "all-metal",
+                "orig": "all-metal",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 42,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 231.49900000000002,
+                  "r_x1": 311.51,
+                  "r_y1": 231.49900000000002,
+                  "r_x2": 311.51,
+                  "r_y2": 223.034,
+                  "r_x3": 71.992,
+                  "r_y3": 223.034,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "construction designed to hold tight despite severe vibration. ",
+                "orig": "construction designed to hold tight despite severe vibration. ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 43,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 243.99900000000002,
+                  "r_x1": 103.502,
+                  "r_y1": 243.99900000000002,
+                  "r_x2": 103.502,
+                  "r_y2": 235.534,
+                  "r_x3": 71.992,
+                  "r_y3": 235.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "Note in ",
+                "orig": "Note in ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 44,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 102.862,
+                  "r_y0": 244.0,
+                  "r_x1": 150.172,
+                  "r_y1": 244.0,
+                  "r_x2": 150.172,
+                  "r_y2": 235.62400000000002,
+                  "r_x3": 102.862,
+                  "r_y3": 235.62400000000002,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "Figure 7-26",
+                "orig": "Figure 7-26",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 45,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 150.162,
+                  "r_y0": 243.99900000000002,
+                  "r_x1": 309.082,
+                  "r_y1": 243.99900000000002,
+                  "r_x2": 309.082,
+                  "r_y2": 235.534,
+                  "r_x3": 150.162,
+                  "r_y3": 235.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": " that it has two sections and is essentially",
+                "orig": " that it has two sections and is essentially",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 46,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 256.499,
+                  "r_x1": 311.519,
+                  "r_y1": 256.499,
+                  "r_x2": 311.519,
+                  "r_y2": 248.034,
+                  "r_x3": 71.992,
+                  "r_y3": 248.034,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "two nuts in one: a locking nut and a load-carrying nut. The ",
+                "orig": "two nuts in one: a locking nut and a load-carrying nut. The ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 47,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 268.999,
+                  "r_x1": 309.042,
+                  "r_y1": 268.999,
+                  "r_x2": 309.042,
+                  "r_y2": 260.534,
+                  "r_x3": 71.992,
+                  "r_y3": 260.534,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "two sections are connected with a spring, which is an integral",
+                "orig": "two sections are connected with a spring, which is an integral",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 48,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 71.992,
+                  "r_y0": 281.499,
+                  "r_x1": 133.372,
+                  "r_y1": 281.499,
+                  "r_x2": 133.372,
+                  "r_y2": 273.034,
+                  "r_x3": 71.992,
+                  "r_y3": 273.034,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "part of the nut. ",
+                "orig": "part of the nut. ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              }
+            ],
+            "children": []
+          },
+          "text": "The  Boots  self-locking nut is  of  one  piece, all-metal construction designed to hold tight despite severe vibration. Note in Figure 7-26 that it has two sections and is essentially two nuts in one: a locking nut and a load-carrying nut. The two sections are connected with a spring, which is an integral part of the nut."
+        },
+        {
+          "label": "text",
           "id": 1,
           "page_no": 0,
           "cluster": {
@@ -157158,7 +157694,7 @@
             "confidence": 0.9881331324577332,
             "cells": [
               {
-                "index": 44,
+                "index": 49,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157183,7 +157719,7 @@
                 "from_ocr": false
               },
               {
-                "index": 45,
+                "index": 50,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157208,7 +157744,7 @@
                 "from_ocr": false
               },
               {
-                "index": 46,
+                "index": 51,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157233,7 +157769,7 @@
                 "from_ocr": false
               },
               {
-                "index": 47,
+                "index": 52,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157258,7 +157794,7 @@
                 "from_ocr": false
               },
               {
-                "index": 48,
+                "index": 53,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157283,7 +157819,7 @@
                 "from_ocr": false
               },
               {
-                "index": 49,
+                "index": 54,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157329,7 +157865,7 @@
             "confidence": 0.9882921576499939,
             "cells": [
               {
-                "index": 50,
+                "index": 55,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157354,7 +157890,7 @@
                 "from_ocr": false
               },
               {
-                "index": 51,
+                "index": 56,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157379,7 +157915,7 @@
                 "from_ocr": false
               },
               {
-                "index": 52,
+                "index": 57,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157404,7 +157940,7 @@
                 "from_ocr": false
               },
               {
-                "index": 53,
+                "index": 58,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157429,7 +157965,7 @@
                 "from_ocr": false
               },
               {
-                "index": 54,
+                "index": 59,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157454,7 +157990,7 @@
                 "from_ocr": false
               },
               {
-                "index": 55,
+                "index": 60,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157479,7 +158015,7 @@
                 "from_ocr": false
               },
               {
-                "index": 56,
+                "index": 61,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157504,7 +158040,7 @@
                 "from_ocr": false
               },
               {
-                "index": 57,
+                "index": 62,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157550,7 +158086,7 @@
             "confidence": 0.9695363640785217,
             "cells": [
               {
-                "index": 58,
+                "index": 63,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157575,7 +158111,7 @@
                 "from_ocr": false
               },
               {
-                "index": 59,
+                "index": 64,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157613,7 +158149,7 @@
             "label": "text",
             "bbox": {
               "l": 320.992,
-              "t": 46.03399999999999,
+              "t": 45.81299999999999,
               "r": 560.517,
               "b": 116.99900000000002,
               "coord_origin": "TOPLEFT"
@@ -157621,7 +158157,7 @@
             "confidence": 0.9870070219039917,
             "cells": [
               {
-                "index": 60,
+                "index": 65,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157631,22 +158167,22 @@
                 "rect": {
                   "r_x0": 320.992,
                   "r_y0": 54.499000000000024,
-                  "r_x1": 560.508,
-                  "r_y1": 54.499000000000024,
-                  "r_x2": 560.508,
-                  "r_y2": 46.03399999999999,
+                  "r_x1": 516.813,
+                  "r_y1": 50.46799999999996,
+                  "r_x2": 516.813,
+                  "r_y2": 45.81299999999999,
                   "r_x3": 320.992,
                   "r_y3": 46.03399999999999,
                   "coord_origin": "TOPLEFT"
                 },
-                "text": "the most common ranges in size for No. 6 up to  1 4 inch, the ",
-                "orig": "the most common ranges in size for No. 6 up to  1 4 inch, the ",
+                "text": "the most common ranges in size for No. 6 up to  1",
+                "orig": "the most common ranges in size for No. 6 up to  1",
                 "text_direction": "left_to_right",
                 "confidence": 1.0,
                 "from_ocr": false
               },
               {
-                "index": 61,
+                "index": 66,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157671,7 +158207,57 @@
                 "from_ocr": false
               },
               {
-                "index": 62,
+                "index": 67,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 518.258,
+                  "r_y0": 53.668000000000006,
+                  "r_x1": 521.008,
+                  "r_y1": 53.668000000000006,
+                  "r_x2": 521.008,
+                  "r_y2": 49.013000000000034,
+                  "r_x3": 518.258,
+                  "r_y3": 49.013000000000034,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "4",
+                "orig": "4",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 68,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 521.008,
+                  "r_y0": 54.499000000000024,
+                  "r_x1": 560.508,
+                  "r_y1": 54.499000000000024,
+                  "r_x2": 560.508,
+                  "r_y2": 46.03399999999999,
+                  "r_x3": 521.008,
+                  "r_y3": 46.03399999999999,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": " inch, the ",
+                "orig": " inch, the ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 69,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157681,22 +158267,22 @@
                 "rect": {
                   "r_x0": 320.998,
                   "r_y0": 66.99900000000002,
-                  "r_x1": 443.867,
-                  "r_y1": 66.99900000000002,
-                  "r_x2": 443.867,
-                  "r_y2": 58.53399999999999,
+                  "r_x1": 407.24,
+                  "r_y1": 62.96799999999996,
+                  "r_x2": 407.24,
+                  "r_y2": 58.31299999999999,
                   "r_x3": 320.998,
                   "r_y3": 58.53399999999999,
                   "coord_origin": "TOPLEFT"
                 },
-                "text": "Rol-top ranges from  1 4 inch to ",
-                "orig": "Rol-top ranges from  1 4 inch to ",
+                "text": "Rol-top ranges from  1",
+                "orig": "Rol-top ranges from  1",
                 "text_direction": "left_to_right",
                 "confidence": 1.0,
                 "from_ocr": false
               },
               {
-                "index": 63,
+                "index": 70,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157721,7 +158307,57 @@
                 "from_ocr": false
               },
               {
-                "index": 64,
+                "index": 71,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 408.685,
+                  "r_y0": 66.168,
+                  "r_x1": 411.435,
+                  "r_y1": 66.168,
+                  "r_x2": 411.435,
+                  "r_y2": 61.513000000000034,
+                  "r_x3": 408.685,
+                  "r_y3": 61.513000000000034,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": "4",
+                "orig": "4",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 72,
+                "rgba": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 255
+                },
+                "rect": {
+                  "r_x0": 411.435,
+                  "r_y0": 66.99900000000002,
+                  "r_x1": 443.867,
+                  "r_y1": 66.99900000000002,
+                  "r_x2": 443.867,
+                  "r_y2": 58.53399999999999,
+                  "r_x3": 411.435,
+                  "r_y3": 58.53399999999999,
+                  "coord_origin": "TOPLEFT"
+                },
+                "text": " inch to ",
+                "orig": " inch to ",
+                "text_direction": "left_to_right",
+                "confidence": 1.0,
+                "from_ocr": false
+              },
+              {
+                "index": 73,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157746,7 +158382,7 @@
                 "from_ocr": false
               },
               {
-                "index": 65,
+                "index": 74,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157771,7 +158407,7 @@
                 "from_ocr": false
               },
               {
-                "index": 66,
+                "index": 75,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157796,7 +158432,7 @@
                 "from_ocr": false
               },
               {
-                "index": 67,
+                "index": 76,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157821,7 +158457,7 @@
                 "from_ocr": false
               },
               {
-                "index": 68,
+                "index": 77,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157846,7 +158482,7 @@
                 "from_ocr": false
               },
               {
-                "index": 69,
+                "index": 78,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157871,7 +158507,7 @@
                 "from_ocr": false
               },
               {
-                "index": 70,
+                "index": 79,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157896,7 +158532,7 @@
                 "from_ocr": false
               },
               {
-                "index": 71,
+                "index": 80,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157921,7 +158557,7 @@
                 "from_ocr": false
               },
               {
-                "index": 72,
+                "index": 81,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157946,7 +158582,7 @@
                 "from_ocr": false
               },
               {
-                "index": 73,
+                "index": 82,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157971,7 +158607,7 @@
                 "from_ocr": false
               },
               {
-                "index": 74,
+                "index": 83,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -157996,7 +158632,7 @@
                 "from_ocr": false
               },
               {
-                "index": 75,
+                "index": 84,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158023,7 +158659,7 @@
             ],
             "children": []
           },
-          "text": "the most common ranges in size for No. 6 up to  1 4 inch, the / Rol-top ranges from  1 4 inch to / 1 / 6 inch, and the bellows type ranges in size from No. 8 up to 3 / 8 inch. Wing-type nuts are made of anodized aluminum alloy, cadmium-plated carbon steel, or stainless steel. The Rol-top nut is cadmium-plated steel, and the bellows type is made of aluminum alloy only."
+          "text": "the most common ranges in size for No. 6 up to  1 / 4 inch, the Rol-top ranges from  1 / 4 inch to 1 / 6 inch, and the bellows type ranges in size from No. 8 up to 3 / 8 inch. Wing-type nuts are made of anodized aluminum alloy, cadmium-plated carbon steel, or stainless steel. The Rol-top nut is cadmium-plated steel, and the bellows type is made of aluminum alloy only."
         },
         {
           "label": "text",
@@ -158042,7 +158678,7 @@
             "confidence": 1.0,
             "cells": [
               {
-                "index": 76,
+                "index": 85,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158088,7 +158724,7 @@
             "confidence": 0.9263731241226196,
             "cells": [
               {
-                "index": 77,
+                "index": 86,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158134,7 +158770,7 @@
             "confidence": 0.9879258871078491,
             "cells": [
               {
-                "index": 78,
+                "index": 87,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158159,7 +158795,7 @@
                 "from_ocr": false
               },
               {
-                "index": 79,
+                "index": 88,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158184,7 +158820,7 @@
                 "from_ocr": false
               },
               {
-                "index": 80,
+                "index": 89,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158209,7 +158845,7 @@
                 "from_ocr": false
               },
               {
-                "index": 81,
+                "index": 90,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158234,7 +158870,7 @@
                 "from_ocr": false
               },
               {
-                "index": 82,
+                "index": 91,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158259,7 +158895,7 @@
                 "from_ocr": false
               },
               {
-                "index": 83,
+                "index": 92,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158284,7 +158920,7 @@
                 "from_ocr": false
               },
               {
-                "index": 84,
+                "index": 93,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158309,7 +158945,7 @@
                 "from_ocr": false
               },
               {
-                "index": 85,
+                "index": 94,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158334,7 +158970,7 @@
                 "from_ocr": false
               },
               {
-                "index": 86,
+                "index": 95,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158359,7 +158995,7 @@
                 "from_ocr": false
               },
               {
-                "index": 87,
+                "index": 96,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158384,7 +159020,7 @@
                 "from_ocr": false
               },
               {
-                "index": 88,
+                "index": 97,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158409,7 +159045,7 @@
                 "from_ocr": false
               },
               {
-                "index": 89,
+                "index": 98,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158434,7 +159070,7 @@
                 "from_ocr": false
               },
               {
-                "index": 90,
+                "index": 99,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158459,7 +159095,7 @@
                 "from_ocr": false
               },
               {
-                "index": 91,
+                "index": 100,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158484,7 +159120,7 @@
                 "from_ocr": false
               },
               {
-                "index": 92,
+                "index": 101,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158509,7 +159145,7 @@
                 "from_ocr": false
               },
               {
-                "index": 93,
+                "index": 102,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158534,7 +159170,7 @@
                 "from_ocr": false
               },
               {
-                "index": 94,
+                "index": 103,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158559,7 +159195,7 @@
                 "from_ocr": false
               },
               {
-                "index": 95,
+                "index": 104,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158584,7 +159220,7 @@
                 "from_ocr": false
               },
               {
-                "index": 96,
+                "index": 105,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158630,7 +159266,7 @@
             "confidence": 0.9253152012825012,
             "cells": [
               {
-                "index": 97,
+                "index": 106,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158676,7 +159312,7 @@
             "confidence": 0.9676451683044434,
             "cells": [
               {
-                "index": 98,
+                "index": 107,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158701,7 +159337,7 @@
                 "from_ocr": false
               },
               {
-                "index": 99,
+                "index": 108,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158747,7 +159383,7 @@
             "confidence": 0.9881086945533752,
             "cells": [
               {
-                "index": 100,
+                "index": 109,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158772,7 +159408,7 @@
                 "from_ocr": false
               },
               {
-                "index": 101,
+                "index": 110,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158797,7 +159433,7 @@
                 "from_ocr": false
               },
               {
-                "index": 102,
+                "index": 111,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158822,7 +159458,7 @@
                 "from_ocr": false
               },
               {
-                "index": 103,
+                "index": 112,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158847,7 +159483,7 @@
                 "from_ocr": false
               },
               {
-                "index": 104,
+                "index": 113,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158872,7 +159508,7 @@
                 "from_ocr": false
               },
               {
-                "index": 105,
+                "index": 114,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -158911,7 +159547,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 100,
+                    "index": 109,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -158951,7 +159587,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 101,
+                    "index": 110,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -158991,7 +159627,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 102,
+                    "index": 111,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -159031,7 +159667,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 103,
+                    "index": 112,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -159071,7 +159707,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 104,
+                    "index": 113,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -159111,7 +159747,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 105,
+                    "index": 114,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -159163,7 +159799,7 @@
             "confidence": 0.9858751893043518,
             "cells": [
               {
-                "index": 106,
+                "index": 115,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -159188,7 +159824,7 @@
                 "from_ocr": false
               },
               {
-                "index": 107,
+                "index": 116,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -159213,7 +159849,7 @@
                 "from_ocr": false
               },
               {
-                "index": 108,
+                "index": 117,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -159238,7 +159874,7 @@
                 "from_ocr": false
               },
               {
-                "index": 109,
+                "index": 118,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -159263,7 +159899,7 @@
                 "from_ocr": false
               },
               {
-                "index": 110,
+                "index": 119,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -159302,7 +159938,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 106,
+                    "index": 115,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -159342,7 +159978,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 107,
+                    "index": 116,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -159382,7 +160018,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 108,
+                    "index": 117,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -159422,7 +160058,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 109,
+                    "index": 118,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -159462,7 +160098,7 @@
                 "confidence": 1.0,
                 "cells": [
                   {
-                    "index": 110,
+                    "index": 119,
                     "rgba": {
                       "r": 0,
                       "g": 0,
@@ -159514,7 +160150,7 @@
             "confidence": 0.9449448585510254,
             "cells": [
               {
-                "index": 111,
+                "index": 120,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -159539,7 +160175,7 @@
                 "from_ocr": false
               },
               {
-                "index": 112,
+                "index": 121,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -159585,7 +160221,7 @@
             "confidence": 0.9497622847557068,
             "cells": [
               {
-                "index": 113,
+                "index": 122,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -159610,7 +160246,7 @@
                 "from_ocr": false
               },
               {
-                "index": 114,
+                "index": 123,
                 "rgba": {
                   "r": 0,
                   "g": 0,
@@ -159658,7 +160294,7 @@
             "confidence": 0.9368568658828735,
             "cells": [
               {
-                "index": 115,
+                "index": 124,
                 "rgba": {
                   "r": 0,
                   "g": 0,

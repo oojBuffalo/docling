@@ -48813,7 +48813,7 @@
         }
       ],
       "has_chars": true,
-      "has_words": false,
+      "has_words": true,
       "has_lines": true,
       "image": null,
       "lines": []

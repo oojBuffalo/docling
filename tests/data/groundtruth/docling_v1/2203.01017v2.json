@@ -178,7 +178,7 @@
           "__ref_s3_data": null
         }
       ],
-      "text": "{ ahn,nli,mly,taa @zurich.ibm.com }",
+      "text": "{ ahn,nli,mly,taa } @zurich.ibm.com",
       "type": "paragraph",
       "payload": null,
       "name": "Text",
@@ -1801,7 +1801,7 @@
           "__ref_s3_data": null
         }
       ],
-      "text": "For training, TableFormer is trained with 3 Adam optimizers, each one for the CNN Backbone Network Structure , Decoder , and Cell BBox Decoder . Taking the PubTabNet as an example for our parameter set up, the initializing learning rate is 0.001 for 12 epochs with a batch size of 24, and \u03bb set to 0.5. Afterwards, we reduce the learning rate to 0.0001, the batch size to 18 and train for 12 more epochs or convergence.",
+      "text": "For training, TableFormer is trained with 3 Adam optimizers, each one for the CNN Backbone Network , Structure Decoder , and Cell BBox Decoder . Taking the PubTabNet as an example for our parameter set up, the initializing learning rate is 0.001 for 12 epochs with a batch size of 24, and \u03bb set to 0.5. Afterwards, we reduce the learning rate to 0.0001, the batch size to 18 and train for 12 more epochs or convergence.",
       "type": "paragraph",
       "payload": null,
       "name": "Text",
